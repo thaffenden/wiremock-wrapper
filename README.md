@@ -1,5 +1,6 @@
-# PyWiremock
-Python bindings for wiremock to create and edit Wiremock sessions from within your python code. 
+# wiremock wrapper
+Python wrapper for interactions with the wiremock jar.
+Manipulate wiremock sessions inside your python code.
 
-# TODO
-Write full readme
+Requires access to the wiremock.jar to run.
+Looks for a directory in the root folder of your project called wiremock. 
